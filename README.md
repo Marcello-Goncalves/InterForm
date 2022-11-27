@@ -17,3 +17,5 @@ This iteration of the solution incorporates the [System.Globalization](https://l
 ## Credits
 
 The [Icon](https://www.flaticon.com/free-icon/earth-globe_587874?term=globe&page=1&position=23&page=1&position=23&related_id=587874&origin=style) used in this project was [Designed by Freepik Company, S.L from Flaticon](https://media.flaticon.com/license/license.pdf).
+
+![Globe](https://github.com/Marcello-Goncalves/InterForm/blob/master/OutputImages/earth-globe.png "Globe")
